@@ -1,0 +1,167 @@
+.text-align-center {
+  text-align: center;
+}
+
+.f-w-b {
+  font-weight: bold;
+}
+
+.display-none {
+  display: none;
+}
+
+.w-5-pct {
+  width: 5%;
+}
+
+.w-10-pct {
+  width: 10%;
+}
+
+.w-15-pct {
+  width: 15%;
+}
+
+.w-20-pct {
+  width: 20%;
+}
+
+.w-25-pct {
+  width: 25%;
+}
+
+.w-30-pct {
+  width: 30%;
+}
+
+.w-35-pct {
+  width: 35%;
+}
+
+.w-40-pct {
+  width: 40%;
+}
+
+.w-45-pct {
+  width: 45%;
+}
+
+.w-50-pct {
+  width: 50%;
+}
+
+.w-55-pct {
+  width: 55%;
+}
+
+.w-60-pct {
+  width: 60%;
+}
+
+.w-65-pct {
+  width: 65%;
+}
+
+.w-70-pct {
+  width: 70%;
+}
+
+.w-75-pct {
+  width: 75%;
+}
+
+.w-80-pct {
+  width: 80%;
+}
+
+.w-85-pct {
+  width: 85%;
+}
+
+.w-90-pct {
+  width: 90%;
+}
+
+.w-95-pct {
+  width: 95%;
+}
+
+.w-100-pct {
+  width: 100%;
+}
+
+.m-t-0px {
+  margin-top: 0px;
+}
+
+.m-b-10px {
+  margin-bottom: 10px;
+}
+
+.m-b-20px {
+  margin-bottom: 20px;
+}
+
+.m-b-30px {
+  margin-bottom: 30px;
+}
+
+.m-b-40px {
+  margin-bottom: 40px;
+}
+
+.stock-text {
+  font-weight: bold;
+  color: #008a00;
+}
+
+.stock-text-red {
+  font-weight: bold;
+  color: #b12704;
+}
+
+.product-detail {
+  font-weight: bold;
+  margin: 0 0 5px 0;
+}
+
+.blueimp-gallery>.prev, .blueimp-gallery>.next {
+  border: none;
+}
+
+.update-quantity-form {
+  width: 150px;
+  float: left;
+  margin: 0 10px 0 0;
+}
+
+.cart-row {
+  border-bottom: thin solid #f1f1f1;
+  overflow: hidden;
+  width: 100%;
+  padding: 20px 0 20px 0;
+}
+
+.product-link {
+  color: #000000;
+}
+
+.product-link:hover {
+  color: #000000;
+  text-decoration: none;
+}
+
+.product-img-thumb {
+  margin: 0 0 10px 0;
+  width: 100%;
+  cursor: pointer;
+}
+/*==================== Navbar Style ================================*/
+.bg-custom {
+    background-color: #008081 !important;
+}
+/*==================== Welcome Style =============================*/
+body { background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALEgAACxIB0t1+/AAAABZ0RVh0Q3JlYXRpb24gVGltZQAxMC8yOS8xMiKqq3kAAAAcdEVYdFNvZnR3YXJlAEFkb2JlIEZpcmV3b3JrcyBDUzVxteM2AAABHklEQVRIib2Vyw6EIAxFW5idr///Qx9sfG3pLEyJ3tAwi5EmBqRo7vHawiEEERHS6x7MTMxMVv6+z3tPMUYSkfTM/R0fEaG2bbMv+Gc4nZzn+dN4HAcREa3r+hi3bcuu68jLskhVIlW073tWaYlQ9+F9IpqmSfq+fwskhdO/AwmUTJXrOuaRQNeRkOd5lq7rXmS5InmERKoER/QMvUAPlZDHcZRhGN4CSeGY+aHMqgcks5RrHv/eeh455x5KrMq2yHQdibDO6ncG/KZWL7M8xDyS1/MIO0NJqdULLS81X6/X6aR0nqBSJcPeZnlZrzN477NKURn2Nus8sjzmEII0TfMiyxUuxphVWjpJkbx0btUnshRihVv70Bv8ItXq6Asoi/ZiCbU6YgAAAABJRU5ErkJggg==);}
+.error-template {padding: 40px 15px;text-align: center;}
+.error-actions {margin-top:15px;margin-bottom:15px;}
+.error-actions .btn { margin-right:10px; }
